@@ -1,4 +1,8 @@
 # CITGameTracker
+I have also performed unit testing located in TrackerLibrary. The file is called UnitTesting.cs. I tested different methods to see if I was getting the response that I 
+wanted. Beyond that, I have included the Application Design document. It provides description to what the project is, along with a UML diagram. I also included 
+a PDF that shows a flow diagram of how the application flows.
+
 The purpose of this application is to allow users to keep track of teams, team members, games, and at the end who the winner is.
 
 When this project is run, right away the team Member form pops up. One must complete all fields of the form otherwise a pop-up box will appear. 
@@ -21,4 +25,4 @@ TextConnectorProcessor actually performs the saving of the file and defines the 
 
 The project is not finished product yet. I have not finished implementing each different UI page.
 I have yet to put all the pieces together to make it one full, working application. However, I believe that I have a solid foundation. 
-I have also performed unit testing.
+
